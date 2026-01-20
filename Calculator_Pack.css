@@ -1,0 +1,25 @@
+#Calc{
+    border:3px solid rgba(134, 96, 46, 0.918);
+    background-color: rgb(77, 81, 70);
+    border-radius: 8px;
+    
+    width: 280px;
+
+}
+#show{
+ margin: 15px;
+ background-color: rgba(14, 177, 14, 0.553);
+ border: 2px solid black;
+ border-radius: 4px;
+ width: 88%;
+ font-size:20px;
+}
+.a{
+width:80px;
+height:30px;
+}
+.buttons{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
